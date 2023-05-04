@@ -1,5 +1,4 @@
-# Team-44 - Moon Walkers 
-# Family Expense Tracker
+# Money Hive - A Family Expense Tracker
 ## Introduction
 This project is a family expense tracker that uses Flutter for the mobile app and Flask for the backend & Mongo for the database. The purpose of this app is to help families keep track of their expenses and manage their finances in a more organized and fun way.
 ## Features
